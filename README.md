@@ -12,6 +12,7 @@
 8. Подключила удалённый репозиторий (`git remote add origin ...`) и отправила коммиты (`git push`).
 
 ## Скриншоты
+![alt text](<laba1/images/git init.png>)
 ![git log](images/git init.png)
 ![git log](images/git status1.png)
 ![git log](images/git add .git status2.png)
