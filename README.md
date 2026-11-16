@@ -13,9 +13,8 @@
 
 ## Скриншоты
 ![alt text](<laba1/images/git init.png>)
-![git log](images/git init.png)
-![git log](images/git status1.png)
-![git log](images/git add .git status2.png)
-![git log](images/git config.png)
-![git log](images/git commit.png)
-![git log](images/git log.png)
+![alt text](<laba1/images/git status1.png>)
+![alt text](<laba1/images/git add .git status2.png>)
+![alt text](<laba1/images/git config.png>)
+![alt text](<laba1/images/git commit -m.png>)
+![alt text](<laba1/images/git log.png>)
